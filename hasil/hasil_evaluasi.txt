@@ -1,0 +1,18 @@
+HASIL EVALUASI 3 MODEL MOBILENETV3-LARGE
+=======================================================
+
+E1_Pretrained
+Test Accuracy : 1.0000
+Latency       : 206.36 ms/image
+Latency Std   : 31.76 ms
+
+E2_Scratch
+Test Accuracy : 0.4667
+Latency       : 181.46 ms/image
+Latency Std   : 6.65 ms
+
+E3_Tuning
+Test Accuracy : 1.0000
+Latency       : 198.76 ms/image
+Latency Std   : 29.70 ms
+

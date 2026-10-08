@@ -1,0 +1,4 @@
+Experiment,Test Accuracy,Best Val Accuracy,Final Val Accuracy,Latency (ms/image),Latency Std (ms)
+E1_Pretrained,1.0,1.0,1.0,206.36,31.76
+E2_Scratch,0.4667,0.5333,0.5333,181.46,6.65
+E3_Tuning,1.0,1.0,1.0,198.76,29.7
